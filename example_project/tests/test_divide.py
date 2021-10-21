@@ -1,6 +1,6 @@
 import unittest
 
-from Demo_testing.source.divisions import divide
+from source.divisions.divide import divide
 
 
 class TestDivide(unittest.TestCase):
